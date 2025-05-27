@@ -1,4 +1,4 @@
-# 🧠 run_and_dump.ps1
+# run_and_dump_EN.ps1
 
 ## Overview
 
@@ -22,7 +22,8 @@ This PowerShell script automates the execution of a PE file (simulated malware) 
 ## Usage
 
 ```powershell
-.un_and_dump.ps1
+.
+un_and_dump.ps1
 ```
 
 > Important: PowerShell must be run as **Administrator**
