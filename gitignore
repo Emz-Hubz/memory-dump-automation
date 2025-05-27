@@ -1,0 +1,18 @@
+# Windows/PowerShell
+*.ps1~
+*.log
+*.tmp
+*.elf
+*.dmp
+
+# System folders
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# VSCode or editor folders
+.vscode/
+.idea/
+
+# Environment files
+.env
